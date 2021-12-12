@@ -1,1 +1,1 @@
-leafanalysis
+leafanalysis classifies different plant species based on their leaves using image processing .The images are preprocessed first and then shape, color and texture based features are extracted from the processed image.
